@@ -8,6 +8,9 @@ level: 0
 region: United States
 
 auto-migrated: 1
+meetup-group: OWASP-Chicago-Chapter
+country: USA
+postal-code: 60654
 
 ---
 
